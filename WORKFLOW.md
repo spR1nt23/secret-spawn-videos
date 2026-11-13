@@ -64,7 +64,7 @@ Bir **içerik dosyası** = bir set = 3 Short + 1 uzun video. Dosya adı `content
 | Video | Yayın (Europe/Istanbul) | Format | Süre |
 |---|---|---|---|
 | `short1` | **D 19:00** | 1080x1920 | 20–27 sn |
-| `long`   | **D 23:00** | 1920x1080 | ~3:00–3:30 (2:40 kabul edilebilir alt sınır) |
+| `long`   | **D 23:00** | 1920x1080 | ~1:45–2:15 (1:30 alt sınır, 2:30 üst sınır) |
 | `short2` | **D+1 01:00** | 1080x1920 | 20–27 sn |
 | `short3` | **D+1 03:00** | 1080x1920 | 20–27 sn |
 
@@ -72,7 +72,7 @@ Bir **içerik dosyası** = bir set = 3 Short + 1 uzun video. Dosya adı `content
 - **Tekrar üretme:** Başlamadan önce `videos/` klasörüne, `TOPICS_HISTORY.md` dosyasına ve (erişim varsa) Studio'daki zamanlanmış videolara bak. O günün seti zaten hazırsa yeniden üretme.
 - Tipik dağılım:
   - `short1`: günün en büyük haberi (3 madde).
-  - `long`: 5 haber, 5 oyunun kodları, hafta/hafta sonu listesi.
+  - `long`: 3 haber, 3 oyunun kodları, kısa hafta/hafta sonu listesi. Kısa ve hızlı tut.
   - `short2` ve `short3`: biri haber ya da tarih, biri kod; bazı günler ikisi de kod olur. Kod Short'ları en çok izlenen tür (~1.3–1.4K görüntülenme).
 
 Dosya adları şu kalıptadır:
@@ -125,7 +125,7 @@ SS_<YYYY-MM-DD>_<HHMM>_<Short|Long>_<Slug>.mp4
 ### Yapı
 - **Short:** intro (kanca) → 3 madde (`n`=1..3) → outro (soru).
   - Her sahnede tek cümle; madde sahneleri en fazla 2 kısa cümle.
-- **Uzun video:** intro → haber maddeleri (1–5) → kod maddeleri (6–10) → `list` (hafta / hafta sonu) → outro.
+- **Uzun video:** intro → haber maddeleri (1–3) → kod maddeleri (4–6) → `list` (hafta / hafta sonu) → outro.
   - Haber maddeleri: 3–4 cümle ve 3–4 madde imi (bullet).
   - Kod maddeleri: 1–2 cümle; bullet olarak `KOD: ÖDÜL`.
 
