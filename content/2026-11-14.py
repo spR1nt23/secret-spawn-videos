@@ -1,0 +1,131 @@
+# Secret Spawn - 14 Nov 2026 content
+# Sources (checked 13 Nov 2026):
+#  RIVALS S4: robloxtools.net/blog/rivals-season-4, timesaver.gg/blog/roblox-rivals-season-4 (official Roblox event: 02:00 UTC Nov 14)
+#  Roblox Plus grant: devforum.roblox.com/t/introducing-roblox-plus/4567894 (6 months from May 19; $4.99/mo)
+#  Timed Options: devforum.roblox.com/t/weekly-recap-october-26-30-2026/4966810
+#  Studio 747 icons: devforum.roblox.com/t/release-notes-for-747/4985911
+#  Studio MCP + Open Cloud: devforum.roblox.com/t/weekly-recap-november-2-6-2026/4979364
+#  Codes: destructoid.com/do-not-stop-codes-roblox (Nov 9), robloxden.com/game-codes/do-not-stop,
+#         ofzenandcomputing.com/anime-zero-update-6-guide, roonby.com anime zero (Nov 3),
+#         progameguides.com/roblox/roblox-kontra-codes (Nov 7), pockettactics.com/30-floors-up-codes (Nov 13)
+from palette import PAL, ACC  # noqa: F401
+
+SHORTS = {
+ "short1": {
+  "title_lines": [("RIVALS SEASON 4", "white"), ("IS HERE", "yellow")], "tag": "NEW SEASON",
+  "scenes": [
+   {"type": "intro", "bg": "purple", "acc": "yellow",
+    "vo": "*RIVALS Season Four* just started, and *three* things changed *right away*."},
+   {"type": "item", "n": 1, "bg": "red", "acc": "pink", "game": "RIVALS", "icon": "trophy", "badge": "SEASON 4",
+    "title": "BRAND NEW BATTLE PASS",
+    "vo": "Number *one*. A *new battle pass* replaces the *Season Three* pass."},
+   {"type": "item", "n": 2, "bg": "navy", "acc": "blue", "game": "RIVALS", "icon": "swords", "badge": "RANKED",
+    "title": "YOUR RANK WAS RESET",
+    "vo": "Number *two*. *Ranks* were *reset*, so everyone climbs from the *start* again."},
+   {"type": "item", "n": 3, "bg": "green", "acc": "green", "game": "RIVALS", "icon": "gem", "badge": "REWARDS",
+    "title": "BETTER RANKED + REWARDS",
+    "vo": "Number *three*. The devs promised *ranked improvements* and *exclusive rewards*."},
+   {"type": "outro", "bg": "purple", "acc": "yellow", "q": [("WHAT RANK", "white"), ("WILL YOU HIT?", "yellow")],
+    "vo": "What *rank* are *you* going to hit this season? Tell me *below*."},
+  ]},
+ "short2": {
+  "title_lines": [("3 FREE ROBLOX", "white"), ("CODES", "yellow")], "tag": "REDEEM NOW",
+  "scenes": [
+   {"type": "intro", "bg": "purple", "acc": "yellow",
+    "vo": "*Three* Roblox codes that just *dropped*. Grab them *fast*."},
+   {"type": "item", "n": 1, "bg": "maroon", "acc": "orange", "game": "DO NOT STOP", "icon": "car", "badge": "NEW",
+    "title": "250 FREE CREDITS", "code": "LASTSTOP",
+    "vo": "*Do Not Stop*. Code *last stop* gives *two hundred fifty credits*."},
+   {"type": "item", "n": 2, "bg": "violet", "acc": "purple", "game": "ANIME ZERO", "icon": "moon", "badge": "UPDATE 6",
+    "title": "500 GEMS + 25 SPINS", "code": "ZODIAC",
+    "vo": "*Anime Zero*. Code *zodiac* gives *five hundred gems* and *twenty five lucky spins*."},
+   {"type": "item", "n": 3, "bg": "navy", "acc": "yellow", "game": "KONTRA", "icon": "shield", "badge": "NEW",
+    "title": "75 FREE KREDITS", "code": "30KFAVORITES",
+    "vo": "*Kontra*. Code *thirty K favorites* gives *seventy five kredits*."},
+   {"type": "outro", "bg": "purple", "acc": "yellow", "q": [("WHICH ONE", "white"), ("FIRST?", "yellow")],
+    "vo": "Codes *expire fast*, so redeem them *now*. Which one are *you* using *first*?"},
+  ]},
+ "short3": {
+  "title_lines": [("3 ROBLOX CODES", "white"), ("FOR TONIGHT", "yellow")], "tag": "DON'T MISS",
+  "scenes": [
+   {"type": "intro", "bg": "purple", "acc": "yellow",
+    "vo": "Up *late*? Here are *three* Roblox codes for *tonight*."},
+   {"type": "item", "n": 1, "bg": "green", "acc": "green", "game": "30 FLOORS UP", "icon": "pyramid", "badge": "NEW",
+    "title": "30 GEMS + $900", "code": "Update2",
+    "vo": "*Thirty Floors Up*. Code *update two* gives *thirty gems* and *nine hundred dollars*."},
+   {"type": "item", "n": 2, "bg": "red", "acc": "pink", "game": "ANIME ZERO", "icon": "scroll", "badge": "UPDATE 6",
+    "title": "100 RELIC SHARDS", "code": "ARTIFACTS",
+    "vo": "*Anime Zero*. Code *artifacts* gives *one hundred relic shards*."},
+   {"type": "item", "n": 3, "bg": "blue", "acc": "blue", "game": "KONTRA", "icon": "shield", "badge": "NEW",
+    "title": "75 FREE KREDITS", "code": "2MILVISITS",
+    "vo": "*Kontra*. Code *two mil visits* gives *seventy five more kredits*."},
+   {"type": "outro", "bg": "purple", "acc": "yellow", "q": [("WHICH ONE", "white"), ("FIRST?", "yellow")],
+    "vo": "Codes *expire fast*, so redeem them *now*. Which one are *you* using *first*?"},
+  ]},
+}
+
+LONG = {
+ "scenes": [
+  {"type": "intro", "bg": "purple", "acc": "yellow",
+   "lines": [("ROBLOX NEWS", "white"), ("TODAY", "yellow")], "tag": "NOV 14",
+   "vo": "Here's today's *Roblox news*. *RIVALS Season Four* is here, free *Roblox Plus* is ending for a lot of *creators*, an old *Roblox feature* is going away, *Studio* got two new tricks, and I've got *four games* with *new codes*. Let's go."},
+  {"type": "item", "n": 1, "bg": "red", "acc": "pink", "game": "RIVALS", "icon": "trophy", "badge": "SEASON 4",
+   "title": "THE STANDARD SEASON",
+   "bullets": ["STARTED FRI 9PM ET", "NEW BATTLE PASS", "RANK RESET", "RANKED IMPROVEMENTS"],
+   "vo": "Number *one*. *RIVALS Season Four*, called *The Standard Season*, was set to start *Friday* at *nine P M Eastern*. It brings a *new battle pass*, a *rank reset*, *exclusive rewards*, and *ranked improvements*. The devs haven't confirmed any *new weapons* yet, so ignore the *leaks* for now. Hop in, finish your *placement*, and start grinding that *new pass* early."},
+  {"type": "item", "n": 2, "bg": "navy", "acc": "yellow", "game": "ROBLOX PLUS", "icon": "gem", "badge": "NOV 19",
+   "title": "FREE PLUS ENDS FOR CREATORS",
+   "bullets": ["~100,000 CREATORS GOT 6 FREE MONTHS", "GRANT STARTED MAY 19", "PLUS: $4.99 A MONTH"],
+   "vo": "Number *two*. Back in *May*, Roblox gave about *one hundred thousand creators* six months of *Roblox Plus* for *free*. That grant ends on *November nineteenth*. After that, creators who want to keep it will need to *pay*, and Plus costs *four ninety nine* a month. Players with Plus get perks like *free private servers* and a *discount* on Robux purchases."},
+  {"type": "item", "n": 3, "bg": "maroon", "acc": "orange", "game": "TIMED OPTIONS", "icon": "pause", "badge": "NOV 30",
+   "title": "TIMED OPTIONS GOING AWAY",
+   "bullets": ["NO NEW PURCHASES FROM NOV 30", "NO EXTENSIONS EITHER"],
+   "vo": "Number *three*. Starting *November thirtieth*, *Timed Options* can no longer be *bought* or *extended*. If you were planning to use them, you've got about *two weeks* left. Creators should check any games that still *rely* on them, so nothing *breaks* for players."},
+  {"type": "item", "n": 4, "bg": "violet", "acc": "purple", "game": "ROBLOX STUDIO", "icon": "frame", "badge": "STUDIO 747",
+   "title": "CUSTOM ICONS FOR FOLDERS",
+   "bullets": ["PICK ANY ICON FOR MODELS", "WORKS ON FOLDERS TOO", "EASIER TO FIND YOUR STUFF"],
+   "vo": "Number *four*. *Studio seven forty seven* is out, and you can now give *models* and *folders* whatever *icon* you want. It sounds small, but in a *huge* game it makes your *Explorer* way *easier* to read. Studio *seven forty seven* is the version that rolled out on *November tenth*."},
+  {"type": "item", "n": 5, "bg": "green", "acc": "green", "game": "ROBLOX STUDIO", "icon": "bolt", "badge": "NEW",
+   "title": "AI AGENTS + OPEN CLOUD",
+   "bullets": ["STUDIO MCP CAN CALL OPEN CLOUD", "SAME CHAT AS YOUR PLACE EDITS", "MADE FOR CREATOR TOOLS"],
+   "vo": "Number *five*. Studio's *M C P* connection now lets connected *AI agents* call *Open Cloud* tools from the *same chat* where they edit your place. That's mostly for *creators*, but it could mean *faster updates* in the games you play."},
+  {"type": "item", "n": 6, "bg": "maroon", "acc": "orange", "game": "DO NOT STOP", "icon": "car", "badge": "CODES",
+   "title": "850 FREE CREDITS", "code": "LASTSTOP",
+   "bullets": ["LASTSTOP: 250 CREDITS", "RELEASE: 250 CREDITS", "DONOTSTOP: 200 CREDITS", "ROUTE1610: 150 CREDITS"],
+   "vo": "Now, *codes*. Number *six*. *Do Not Stop* has *four* codes worth *eight hundred fifty credits* in total, including *last stop*, *release*, *do not stop*, and *route sixteen ten*. Type *route sixteen ten* exactly, with the *numbers*."},
+  {"type": "item", "n": 7, "bg": "violet", "acc": "purple", "game": "ANIME ZERO", "icon": "moon", "badge": "UPDATE 6",
+   "title": "GEMS, SPINS + RELICS", "code": "ZODIAC",
+   "bullets": ["ZODIAC: 500 GEMS + 25 LUCKY SPINS", "ARTIFACTS: 100 RELIC SHARDS"],
+   "vo": "Number *seven*. *Anime Zero* update *six* added *zodiac* for *gems* and *lucky spins*, and *artifacts* for *one hundred relic shards*. The update also added the *Zodiac Trials* raid and a new *artifact* system."},
+  {"type": "item", "n": 8, "bg": "navy", "acc": "yellow", "game": "KONTRA", "icon": "shield", "badge": "CODES",
+   "title": "FREE KREDITS", "code": "30KFAVORITES",
+   "bullets": ["30KFAVORITES: 75 KREDITS", "2MILVISITS: 75 KREDITS"],
+   "vo": "Number *eight*. *Kontra* has *thirty K favorites* and *two mil visits*, each for *seventy five kredits*. Kontra codes are *case sensitive*, so copy them *exactly*."},
+  {"type": "item", "n": 9, "bg": "green", "acc": "green", "game": "30 FLOORS UP", "icon": "pyramid", "badge": "CODES",
+   "title": "GEMS + CASH", "code": "Update2",
+   "bullets": ["Update2: 30 GEMS + $900"],
+   "vo": "And number *nine*. *Thirty Floors Up* has *update two* for *thirty gems* and *nine hundred dollars*."},
+  {"type": "list", "bg": "red", "acc": "pink", "head": "COMING UP",
+   "rows": [("RIVALS SEASON 4: LIVE", "NOW"), ("FREE CREATOR PLUS ENDS", "NOV 19"),
+            ("TIMED OPTIONS: LAST DAY", "NOV 29"), ("INCUBATOR DEADLINE", "DEC 7")],
+   "vo": "Mark your *calendar*. *RIVALS Season Four* is *live*, free creator *Plus* ends on *November nineteenth*, *Timed Options* go away on the *thirtieth*, and the *Incubator* deadline is *December seventh*."},
+  {"type": "outro", "bg": "purple", "acc": "yellow", "q": [("WHAT RANK", "white"), ("WILL YOU HIT?", "yellow")],
+   "vo": "That's *today's* news. What *rank* are *you* going for in *RIVALS Season Four*? Tell me in the *comments*, and *subscribe* to *Secret Spawn* so you never miss a *Roblox update*. See you *tomorrow*."},
+ ]}
+
+UPLOAD = {
+ "short1": {"file": "SS_2026-11-14_1900_Short_RivalsS4", "schedule_ist": "2026-11-14 19:00",
+            "title": "RIVALS Season 4 Changes Everything! 🔫 #roblox #shorts",
+            "description": "RIVALS Season 4, The Standard Season, was set to start Friday, November 13 at 9 PM ET. It brings a new battle pass, a rank reset, exclusive rewards and ranked improvements. New weapons have not been confirmed yet.\n\nEvent times are in Eastern Time and can change.\n\nSubscribe to Secret Spawn for daily Roblox news!\n\n#roblox #robloxnews #rivals #shorts"},
+ "long": {"file": "SS_2026-11-14_2300_Long_NewsToday", "schedule_ist": "2026-11-14 23:00",
+          "title": "Roblox News Today: RIVALS Season 4, Free Plus Ending & 9 New Codes 🚨 #roblox",
+          "description": "Today's Roblox news: RIVALS Season 4 (The Standard Season) brings a new battle pass, a rank reset and ranked improvements, the free 6-month Roblox Plus grant for creators ends November 19, Timed Options can't be bought or extended from November 30, Studio 747 adds custom icons for models and folders, Studio MCP agents can now call Open Cloud, and 4 games have new codes.\n\nChapters:\n0:00 Intro\n0:16 RIVALS Season 4\n0:38 Free Roblox Plus Ends for Creators\n1:00 Timed Options Going Away\n1:16 Custom Icons in Studio\n1:34 Studio MCP + Open Cloud\n1:50 Do Not Stop Codes\n2:05 Anime Zero Codes\n2:19 Kontra + 30 Floors Up Codes\n2:36 Coming Up\n2:49 Outro\n\nCodes in this video:\nDo Not Stop: LASTSTOP (250 Credits), RELEASE (250 Credits), DONOTSTOP (200 Credits), ROUTE1610 (150 Credits)\nAnime Zero: ZODIAC (500 gems, 25 lucky spins + more), ARTIFACTS (100 relic shards + 25 tempering dust)\nKontra: 30KFAVORITES (75 Kredits), 2MILVISITS (75 Kredits)\n30 Floors Up: Update2 (30 gems + $900)\n\nCodes may expire at any time, so redeem them fast! Event times are in Eastern Time and can change.\n\nSubscribe to Secret Spawn for daily Roblox news!\n\n#roblox #robloxnews #robloxcodes #robloxupdate",
+          "tags": ["roblox", "roblox news", "roblox update", "roblox codes", "roblox studio", "rivals season 4", "roblox rivals", "roblox plus", "timed options", "roblox studio mcp", "do not stop codes", "anime zero codes", "kontra codes", "30 floors up codes", "secret spawn", "roblox news today"],
+          "language": "English", "category": "Gaming"},
+ "short2": {"file": "SS_2026-11-15_0100_Short_NewCodes", "schedule_ist": "2026-11-15 01:00",
+            "title": "3 Roblox Codes That Just Dropped! 💎 #roblox #shorts",
+            "description": "3 new Roblox codes:\nDo Not Stop: LASTSTOP (250 Credits)\nAnime Zero: ZODIAC (500 gems, 25 lucky spins + more)\nKontra: 30KFAVORITES (75 Kredits)\n\nCodes may expire at any time, so redeem them fast!\n\nSubscribe to Secret Spawn for daily Roblox news!\n\n#roblox #robloxcodes #shorts"},
+ "short3": {"file": "SS_2026-11-15_0300_Short_LateNightCodes", "schedule_ist": "2026-11-15 03:00",
+            "title": "Late Night Roblox Codes You Need! 🌙 #roblox #shorts",
+            "description": "3 more Roblox codes:\n30 Floors Up: Update2 (30 gems + $900)\nAnime Zero: ARTIFACTS (100 relic shards)\nKontra: 2MILVISITS (75 Kredits)\n\nCodes may expire at any time, so redeem them fast!\n\nSubscribe to Secret Spawn for daily Roblox news!\n\n#roblox #robloxcodes #shorts"},
+}

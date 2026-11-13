@@ -96,3 +96,16 @@ Tarih, o setin 19:00 Short'unun günüdür (D). Aynı setin 01:00 ve 03:00 Short
 - Ban Lists'in yayına girişi (29 Ocak 2027).
 - Incubator son tarihi (7 Aralık).
 - Kids & Select eşiğinin gerçekten 100'e indiğinin teyidi.
+
+## 2026-11-14
+- RIVALS Season 4 "The Standard Season" (takip): 13 Kasım 21:00 ET başlangıç, yeni battle pass, rank reset, ranked iyileştirmeleri; yeni silah doğrulanmadı
+- Roblox Plus: ~100.000 yaratıcıya verilen 6 aylık ücretsiz Plus 19 Kasım'da bitiyor ($4.99/ay)
+- Timed Options 30 Kasım'dan itibaren satın alınamıyor/uzatılamıyor
+- Studio 747: model ve klasörlere özel ikon
+- Studio MCP ajanları Open Cloud çağırabiliyor
+- Kodlar:
+  - Do Not Stop `LASTSTOP`, `RELEASE`, `DONOTSTOP`, `ROUTE1610`
+  - Anime Zero `ZODIAC`, `ARTIFACTS`
+  - Kontra `30KFAVORITES`, `2MILVISITS`
+  - 30 Floors Up `Update2`
+- Liste: RIVALS S4 canlı, Plus bitişi 19 Kas, Timed Options son gün 29 Kas, Incubator 7 Ara
