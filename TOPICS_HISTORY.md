@@ -109,3 +109,15 @@ Tarih, o setin 19:00 Short'unun günüdür (D). Aynı setin 01:00 ve 03:00 Short
   - Kontra `30KFAVORITES`, `2MILVISITS`
   - 30 Floors Up `Update2`
 - Liste: RIVALS S4 canlı, Plus bitişi 19 Kas, Timed Options son gün 29 Kas, Incubator 7 Ara
+
+## 2026-11-15
+- Roblox "Building The Next Era of Creation" (13 Kasım newsroom): top 100 oyunun %80+ yaratıcısı AI araçları kullanıyor; Assistant + Build tek araç (uzun vadeli hedef); Roblox Everywhere (bağımsız uygulamalar)
+- Roblox Build: Aralık'ta daha geniş ABD sürümü, 2027 global; testte 70.000+ oyun (Q3 mektubu)
+- MM2 Halloween 16 Kasım Pazartesi 13:00 ET bitiyor (şeker harca; Emberscythe = kazanda Embersickle + Emberbow)
+- Kodlar:
+  - Kontra `MILLIONVISITS` (500 Kredits, sınırlı kullanım)
+  - Anime Apocalypse `THEESPER`, `TRUEWARRIORHOTFIX`
+  - The Forge `AIDASAYSSORRY`
+  - Survive Your Ideas `BIG5`
+- Liste: MM2 Halloween 16 Kas, ücretsiz creator Plus 19 Kas, Incubator 7 Ara, Build ABD Aralık
+- Takip adayları: Ability Arena Update 2 (15 Kas 10:00 ET, sadece fan kaynağı), Plus yükseltme son tarihi 19 Ara (doğrulanmadı), Build ABD çıkış günü
