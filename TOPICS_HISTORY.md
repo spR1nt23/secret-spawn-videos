@@ -121,3 +121,14 @@ Tarih, o setin 19:00 Short'unun günüdür (D). Aynı setin 01:00 ve 03:00 Short
   - Survive Your Ideas `BIG5`
 - Liste: MM2 Halloween 16 Kas, ücretsiz creator Plus 19 Kas, Incubator 7 Ara, Build ABD Aralık
 - Takip adayları: Ability Arena Update 2 (15 Kas 10:00 ET, sadece fan kaynağı), Plus yükseltme son tarihi 19 Ara (doğrulanmadı), Build ABD çıkış günü
+
+## 2026-11-16
+- The Game Awards 2026 Roblox'ta canlı (10 Aralık Perşembe; ilk kez; sadece 18+; The Block'ta oy verme + sanal merch)
+- IARC yaş derecelendirmesi Avustralya'da 26 Ocak 2027'de başlıyor (Kids & Select oyunları anket doldurmalı, derecelendirme Aralık sonuna kadar; diğer oyunlar tek soru)
+- Experiments yeni metrikler: Rewarded Video Ads seti + en fazla 3 özel metrik (custom/economy/funnel event)
+- Kodlar:
+  - Ishin `COOKING`, `COOKING2`, `DELAYSRY` (reroll)
+  - Gokudo `MIZUHASHI`, `RIDECRASH`, `CITYGARDEN` (30 reroll)
+  - The Forge `SORRYFORBUGS!!!` (reroll; kaynaklar 10/15 diyor)
+- Liste: creator Plus bitişi 19 Kas, Incubator 7 Ara, Game Awards 10 Ara, Avustralya derecelendirme 26 Oca
+- Takip adayları: Game Awards Roblox saat/ödül detayları, Akayuki `R0NIN!TIDE_5K`/`BLOSSOMVEIL_4K` (tek kaynak, verilmedi)
