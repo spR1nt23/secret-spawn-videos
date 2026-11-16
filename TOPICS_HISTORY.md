@@ -132,3 +132,15 @@ Tarih, o setin 19:00 Short'unun günüdür (D). Aynı setin 01:00 ve 03:00 Short
   - The Forge `SORRYFORBUGS!!!` (reroll; kaynaklar 10/15 diyor)
 - Liste: creator Plus bitişi 19 Kas, Incubator 7 Ara, Game Awards 10 Ara, Avustralya derecelendirme 26 Oca
 - Takip adayları: Game Awards Roblox saat/ödül detayları, Akayuki `R0NIN!TIDE_5K`/`BLOSSOMVEIL_4K` (tek kaynak, verilmedi)
+
+## 2026-11-17
+- Grow a Garden Anubis Part 2 (takip; ~14 Kasım): Ancient Trials (saatlik değişen trait'li meyve teslimi, sunucuyla bar doldurma, 3 obby'den biri, ~20 dk açık), Golden Chest + Anubis Crafting Bench
+- A Bizarre Run Stage 3 + Scary Monsters güncellemesi (13 Kasım): 3. yarış etabı, otomatik takım ataması, Scary Monsters ve Wired stand'leri
+- Ücretsiz creator Roblox Plus 19 Kasım'da bitiyor (takip): yükseltme son tarihi 19 Aralık (create.roblox.com/updates)
+- Kodlar:
+  - Beyond Nen `1MVISITS` (20 spin), `50KFAVS` (15 spin), `RANKED!` (15 spin + reset orb)
+  - A Bizarre Run `WIRED`, `SCARYMONSTERS`, `SHUTDOWNSORRY` (arrow + Rokakaka; miktarlar kaynağa göre değişiyor)
+  - Shibuya `5MVISITS`, `sryforsd`, `balancepatch2` (reroll)
+- Liste: creator Plus bitişi 19 Kas, Incubator 7 Ara, Game Awards 10 Ara, Plus yükseltme son günü 19 Ara
+- Takip adayları: A Bizarre Run `SHUTDOWNSORRY2` / `200KLIKES`, Shibuya `clanrerolls` / `loadingbugfix` (verilmedi), Steal An Egg Update 13 (tek kaynak, Sportskeeda), Grow a Garden Trader etkinliği (~22 Kas, doğrulanmadı)
+- Not: devforum/create.roblox.com/haber siteleri bu oturumda doğrudan açılamadı; arama alıntıları kullanıldı
