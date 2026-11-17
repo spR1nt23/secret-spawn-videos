@@ -390,6 +390,34 @@ def soap(size):
 
 ICONS.update(camera=camera, gamepad=gamepad, phone=phone, taco=taco, cake=cake, top=top, soap=soap)
 
+
+def egg(size):
+    im, d = _canvas()
+    # egg shape: ellipse body with narrower top
+    ell(d, [126, 60, 386, 456], (240, 236, 250))
+    # storm stripe + spots
+    poly(d, [(150, 250), (230, 220), (280, 270), (362, 236), (372, 300), (284, 330), (232, 286), (140, 316)],
+         (120, 170, 255), w=10)
+    for (x, y, r) in [(210, 150, 18), (300, 130, 14), (250, 390, 20), (330, 380, 14)]:
+        ell(d, [x - r, y - r, x + r, y + r], (180, 200, 255), w=8)
+    d.ellipse(B([170, 100, 210, 170]), fill=(255, 255, 255))
+    return _fin(im, size)
+
+
+def hat(size):
+    im, d = _canvas()
+    # baseball cap: dome + brim + button
+    d.pieslice(B([110, 120, 400, 410]), 180, 360, fill=(230, 60, 70), outline=OUT, width=W * S)
+    d.line(P([(110, 265), (400, 265)]), fill=OUT, width=W * S)
+    poly(d, [(250, 265), (470, 265), (470, 300), (250, 300)], (200, 40, 55))
+    d.line(P([(255, 140), (255, 262)]), fill=OUT, width=8 * S)
+    ell(d, [238, 104, 272, 138], (200, 40, 55), w=8)
+    d.arc(B([150, 150, 250, 300]), start=200, end=260, fill=(255, 140, 150), width=12 * S)
+    return _fin(im, size)
+
+
+ICONS.update(egg=egg, hat=hat)
+
 if __name__ == '__main__':
     rows = (len(ICONS) + 6) // 7
     sheet = Image.new('RGBA', (300 * 7, 300 * rows), (60, 40, 90, 255))

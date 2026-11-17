@@ -144,3 +144,15 @@ Tarih, o setin 19:00 Short'unun günüdür (D). Aynı setin 01:00 ve 03:00 Short
 - Liste: creator Plus bitişi 19 Kas, Incubator 7 Ara, Game Awards 10 Ara, Plus yükseltme son günü 19 Ara
 - Takip adayları: A Bizarre Run `SHUTDOWNSORRY2` / `200KLIKES`, Shibuya `clanrerolls` / `loadingbugfix` (verilmedi), Steal An Egg Update 13 (tek kaynak, Sportskeeda), Grow a Garden Trader etkinliği (~22 Kas, doğrulanmadı)
 - Not: devforum/create.roblox.com/haber siteleri bu oturumda doğrudan açılamadı; arama alıntıları kullanıldı
+
+## 2026-11-18
+- Steal An Egg Update 13 (takip; 14 Kasım): Stormlands (9. biyom), her 30 dk Skyfall (Thunderstone → Stormy Egg), Thunderous mutasyonu (x2.75), Black Market dealer Slick Rick
+- Fisch Companion Hats güncellemesi (14 Kasım): companion şapkaları, Moosewood'da Crazy Stylist NPC (görev → Crazy Styles Cap & Shades), şapkalar balık/dükkan/gezgin tüccardan
+- Roblox otomatik görsel çevirisi beta (9 Kasım; 7 dil, Creator Hub > Audience > Localization) + Team Test Client Logs (13 Kasım)
+- Kodlar:
+  - The Forge `FIRSTADMINEVENT` (25 reroll), `PRISMATICSHARDS` (Twilight Shards), `90KCCU` (reroll; 10/15)
+  - Pixel Blue Lock `REORELEASE` (style spin + coin), `KUNIGAMI` (flow spin), `NIGHTMARE` (awakening spin + Ego Shards, Story Mode)
+  - Fisch `CompanionHatTime` (ücretsiz companion şapkası)
+- Liste: creator Plus bitişi 19 Kas, Incubator 7 Ara, Game Awards 10 Ara, Plus yükseltme son günü 19 Ara
+- Takip adayları: Rock Fruit `SorryForDelay5`/`UPDATE2`/`Broly` (ödüller çelişkili, verilmedi), Fisch `FischFrightFinale` (verilmedi), Stand Dice `BIZARRE`/`OVERHEAVEN`, Portal Sandbox / Killstreak kodları, 99 Nights sonraki güncelleme (~21 Kas, tahmin)
+- Not: sportskeeda/gamesbeat bu oturumda açılamadı; arama alıntıları kullanıldı
