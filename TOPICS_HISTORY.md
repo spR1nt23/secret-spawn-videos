@@ -156,3 +156,16 @@ Tarih, o setin 19:00 Short'unun günüdür (D). Aynı setin 01:00 ve 03:00 Short
 - Liste: creator Plus bitişi 19 Kas, Incubator 7 Ara, Game Awards 10 Ara, Plus yükseltme son günü 19 Ara
 - Takip adayları: Rock Fruit `SorryForDelay5`/`UPDATE2`/`Broly` (ödüller çelişkili, verilmedi), Fisch `FischFrightFinale` (verilmedi), Stand Dice `BIZARRE`/`OVERHEAVEN`, Portal Sandbox / Killstreak kodları, 99 Nights sonraki güncelleme (~21 Kas, tahmin)
 - Not: sportskeeda/gamesbeat bu oturumda açılamadı; arama alıntıları kullanıldı
+
+## 2026-11-19
+- Adventure Time RPG (Oh My Glob Games / Cartoon Network Games) Roblox'un 16 Kasım "standout new games" derlemesinde öne çıkarıldı: Dungeon Train, boss savaşları, buddies + silah yükseltme, ücretsiz, beta
+- Roblox Wallet gelecek yıl DevEx'in yerini alıyor (Baszucki x Bloxy News, newsroom 9 Kasım); iş günü bazında ödeme, önce ABD 18+ bireysel yaratıcılar; Roblox Card 2027
+- Stand Out: yeni stand battle oyunu (public alpha), en hızlı büyüyen yeni oyunlardan; kodlar beğeni hedeflerinde geliyor
+- Kodlar:
+  - Stand Out `100KLIKESHUGE` (oklar + Dalas; Dalas miktarı kaynağa göre değişiyor)
+  - Stand Dice `BIZARRE` (jackpot roll + luck potion), `OVERHEAVEN` (jackpot roll + 5 trait reroll + 5 grade gem)
+  - Submerged `1000PLAYERS` (5.000 Credits), `UPDATE1` (1.500), `HERTZ` (500)
+  - Roblox is Unbreakable `6MILLZOMBIES` (4 Pure Arrow, 8 Mastery DISC, 24 sa EXP booster)
+- Liste: creator Plus bitişi bugün (19 Kas), Incubator 7 Ara, Game Awards 10 Ara, Plus yükseltme son günü 19 Ara
+- Takip adayları: Grow a Garden Trader / Steal a Brainrot Rebirth 17 (~22 Kas, sadece fan siteleri, doğrulanmadı), Build a Zoo / Revolver Arena Thanksgiving etkinlikleri (~21-22 Kas, doğrulanmadı), Blox Fruits Fourth Sea (Aralık, yol haritası), Stand Out `HUGE100K`/`50KLIKES`, Anime Crusaders X `RobloxVNGBACK`, CYBERPSYCHOSIS `UPDATE1.07`, Towers of Fortune `Shutdown1` (tek kaynak, verilmedi), Anime Dice Biomes (16 Kas, tek kaynak)
+- Not: about.roblox.com, create.roblox.com, sportskeeda, pcgamesn, progameguides bu oturumda doğrudan açılamadı; arama alıntıları kullanıldı

@@ -418,6 +418,59 @@ def hat(size):
 
 ICONS.update(egg=egg, hat=hat)
 
+
+def dice(size):
+    im, d = _canvas()
+    # tilted die: front face + top + side, white pips
+    poly(d, [(110, 190), (330, 190), (330, 440), (110, 440)], (230, 60, 90))
+    poly(d, [(110, 190), (200, 90), (420, 90), (330, 190)], (255, 120, 140))
+    poly(d, [(330, 190), (420, 90), (420, 340), (330, 440)], (170, 30, 60))
+    for (x, y) in [(165, 245), (220, 315), (275, 385), (165, 385), (275, 245)]:
+        ell(d, [x - 22, y - 22, x + 22, y + 22], (255, 255, 255), w=6)
+    ell(d, [244, 122, 286, 156], (255, 255, 255), w=6)
+    for (x, y) in [(360, 170), (390, 300)]:
+        ell(d, [x - 16, y - 16, x + 16, y + 16], (255, 255, 255), w=6)
+    return _fin(im, size)
+
+
+def card(size):
+    im, d = _canvas()
+    # payment-style card with chip and stripe (generic, no brand)
+    rrect(d, [60, 130, 452, 382], 34, (70, 200, 140))
+    d.rectangle(B([67, 180, 445, 222]), fill=OUT)
+    rrect(d, [100, 250, 170, 300], 10, (255, 210, 63), w=8)
+    for i, x in enumerate([200, 250, 300]):
+        d.rounded_rectangle(B([x, 320, x + 40, 338]), radius=6 * S, fill=(220, 255, 235))
+    for r in (20, 40, 60):
+        d.arc(B([330 - r, 275 - r, 330 + r, 275 + r]), start=-50, end=50, fill=OUT, width=9 * S)
+    return _fin(im, size)
+
+
+def arrow(size):
+    im, d = _canvas()
+    # golden arrow pointing up-right with fletching
+    poly(d, [(120, 420), (330, 210), (350, 230), (140, 440)], (255, 210, 63))
+    poly(d, [(290, 180), (440, 70), (380, 270)], (255, 154, 60))
+    poly(d, [(80, 400), (130, 360), (150, 400), (110, 450)], (197, 139, 255))
+    poly(d, [(110, 450), (150, 400), (190, 420), (140, 470)], (150, 90, 230))
+    return _fin(im, size)
+
+
+def train(size):
+    im, d = _canvas()
+    # front of a train car: body, window, lights, wheels
+    rrect(d, [120, 90, 392, 390], 40, (79, 179, 255))
+    rrect(d, [160, 130, 352, 250], 20, (220, 245, 255), w=10)
+    ell(d, [160, 290, 210, 340], (255, 210, 63), w=8)
+    ell(d, [302, 290, 352, 340], (255, 210, 63), w=8)
+    d.line(P([(150, 430), (110, 470)]), fill=OUT, width=W * S)
+    d.line(P([(362, 430), (402, 470)]), fill=OUT, width=W * S)
+    rrect(d, [150, 380, 362, 430], 14, (60, 80, 140))
+    return _fin(im, size)
+
+
+ICONS.update(dice=dice, card=card, arrow=arrow, train=train)
+
 if __name__ == '__main__':
     rows = (len(ICONS) + 6) // 7
     sheet = Image.new('RGBA', (300 * 7, 300 * rows), (60, 40, 90, 255))
