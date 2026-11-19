@@ -169,3 +169,17 @@ Tarih, o setin 19:00 Short'unun günüdür (D). Aynı setin 01:00 ve 03:00 Short
 - Liste: creator Plus bitişi bugün (19 Kas), Incubator 7 Ara, Game Awards 10 Ara, Plus yükseltme son günü 19 Ara
 - Takip adayları: Grow a Garden Trader / Steal a Brainrot Rebirth 17 (~22 Kas, sadece fan siteleri, doğrulanmadı), Build a Zoo / Revolver Arena Thanksgiving etkinlikleri (~21-22 Kas, doğrulanmadı), Blox Fruits Fourth Sea (Aralık, yol haritası), Stand Out `HUGE100K`/`50KLIKES`, Anime Crusaders X `RobloxVNGBACK`, CYBERPSYCHOSIS `UPDATE1.07`, Towers of Fortune `Shutdown1` (tek kaynak, verilmedi), Anime Dice Biomes (16 Kas, tek kaynak)
 - Not: about.roblox.com, create.roblox.com, sportskeeda, pcgamesn, progameguides bu oturumda doğrudan açılamadı; arama alıntıları kullanıldı
+
+## 2026-11-20
+- The Takeback: Roblox mini etkinliği (16-23 Kasım; The Block'tan başla, Emergency Hamburg → Notoriety → Jailbreak; ücretsiz Elbe Jewels Diamond Chain, Gold Metallic Comedy Mask, Diamond Duffel Bag; bitiş 23 Kas 19:00 UTC = 14:00 ET)
+- Revolver Arena Thanksgiving etkinliği planlı: 22 Kasım Pazar 13:00 ET → 29 Kasım (tek kaynak, allthings.how; "scheduled" diye anlatıldı)
+- Studio: Copy and Paste Instances as JSON (18 Kasım; property/attribute/tag; alt nesneler henüz yok)
+- Kodlar:
+  - Start Your Blue Lock Career `MANYFIXES` (10 weapon + 10 flow + 4 lucky weapon + 4 lucky flow spin)
+  - RIVALS `FREE205` (3 Key)
+  - Salvation `PERMCLASSRESET` (class reset), `HEREISPERMPATHRESET` (locked path reset)
+  - Cultivation Unbound `ABZZBIRTHDAY` (1M Silver + 20 Primordial Stones; sadece short2)
+  - Stand Out `SORRY4SHUTDOWN` (500 Dalas + 2 Mysterious Arrows; sadece short3)
+- Liste: Revolver Arena Thanksgiving 22 Kas, Takeback bitişi 23 Kas, Incubator 7 Ara, Game Awards 10 Ara
+- Takip adayları: RIVALS `FREE206` (tek kaynak), Salvation `SALVATIONISPEAKKK` (yazım çelişkili), Ant Evolution `EVOLVE`/`QUEEN` (tek kaynak), Toilet Tower Defense / Sniper Arena Thanksgiving (takvim kaynağı), "Fart Together" kaldırılması (sebep doğrulanmadı, verilmedi), Kongre'de Roblox güvenlik oturumu (siyasi, verilmedi)
+- Not: devforum, create.roblox.com, fandom ve tüm haber/kod siteleri bu oturumda doğrudan açılamadı; arama alıntıları kullanıldı
