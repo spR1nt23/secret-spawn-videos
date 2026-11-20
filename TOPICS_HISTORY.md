@@ -183,3 +183,17 @@ Tarih, o setin 19:00 Short'unun günüdür (D). Aynı setin 01:00 ve 03:00 Short
 - Liste: Revolver Arena Thanksgiving 22 Kas, Takeback bitişi 23 Kas, Incubator 7 Ara, Game Awards 10 Ara
 - Takip adayları: RIVALS `FREE206` (tek kaynak), Salvation `SALVATIONISPEAKKK` (yazım çelişkili), Ant Evolution `EVOLVE`/`QUEEN` (tek kaynak), Toilet Tower Defense / Sniper Arena Thanksgiving (takvim kaynağı), "Fart Together" kaldırılması (sebep doğrulanmadı, verilmedi), Kongre'de Roblox güvenlik oturumu (siyasi, verilmedi)
 - Not: devforum, create.roblox.com, fandom ve tüm haber/kod siteleri bu oturumda doğrudan açılamadı; arama alıntıları kullanıldı
+
+## 2026-11-21
+- Classmates on Roblox (18 Kasım; ABD üniversite öğrencileri 18-24, okul e-postası + 6 haneli kod ile doğrulama, mobil/masaüstü; 100+ kolejde 30 eyalette Roblox kulüpleri)
+- TextChatService kuralı 3 Aralık'ta zorunlu (Creator Updates 20 Kas): TextChatService dışında limitsiz oyuncu metni gönderen oyunlar oyuncu başına 60 sn'de 1 mesajla sınırlanıyor
+- Steal An Egg Update 14 "Turkey Takeover" (Şükran Günü; 21 Kas Cmt 15:00 UTC = 10:00 ET; sadece fan takipçileri timesaver.gg / eggping.com, "set for" diye anlatıldı)
+- Kodlar:
+  - 99 Nights in the Forest `forestwakesup26` (15 Diamonds + flame'ler; flame seti kaynağa göre değişiyor), `afterparty` (15 Diamonds)
+  - Vantage `NEWUPDATE` (7.000 Credits)
+  - Arcane 101 `TYSM1500LIKES` (20 Race Reroll; tutorial + grup şartı)
+  - SLAYER `FIFTYK` (50.000 Yen; sadece short2)
+  - Blind but Dangerous `REWORKTIME` (400 Tix; sadece short3)
+- Liste: Turkey Takeover 21 Kas, Takeback bitişi 23 Kas, TextChatService zorunluluğu 3 Ara, Game Awards 10 Ara
+- Takip adayları: 99 Nights sonraki güncelleme (~21 Kas, Pocket Tactics tahmini), Grow a Garden Trader etkinliği (tarihler eski olabilir), Roblox "The Festive" kış etkinliği (17 Ara söylentisi, doğrulanmadı), Delve `TYROBLOX`, Cultivation Unbound `PAGODA`, Power Lifters `RESTART`, Universe Trigger / Uproot kodları (çelişkili, verilmedi), Senato'da Roblox tahkim tasarısı (siyasi, verilmedi)
+- Not: devforum, create.roblox.com, about.roblox.com, bloxy.news, allthings.how bu oturumda doğrudan açılamadı; arama alıntıları kullanıldı
