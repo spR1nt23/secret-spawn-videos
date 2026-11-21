@@ -471,6 +471,46 @@ def train(size):
 
 ICONS.update(dice=dice, card=card, arrow=arrow, train=train)
 
+
+def flask(size):
+    im, d = _canvas()
+    # lab flask: neck + cone body + glowing liquid + bubbles
+    poly(d, [(210, 70), (302, 70), (302, 200), (420, 430), (92, 430), (210, 200)], (225, 240, 255))
+    poly(d, [(160, 300), (352, 300), (420, 430), (92, 430)], (120, 230, 150), w=10)
+    rrect(d, [190, 50, 322, 90], 14, (180, 190, 220), w=10)
+    for (x, y, r) in [(220, 360, 18), (290, 390, 12), (260, 240, 14), (240, 160, 10)]:
+        ell(d, [x - r, y - r, x + r, y + r], (220, 255, 230), w=7)
+    return _fin(im, size)
+
+
+def globe(size):
+    im, d = _canvas()
+    # world globe with grid lines and a map pin
+    ell(d, [70, 90, 410, 430], (79, 179, 255))
+    d.ellipse(B([170, 90, 310, 430]), outline=OUT, width=9 * S)
+    d.line(P([(240, 90), (240, 430)]), fill=OUT, width=9 * S)
+    for y in (180, 260, 340):
+        d.line(P([(84 if y != 260 else 70, y), (396 if y != 260 else 410, y)]), fill=OUT, width=9 * S)
+    # pin
+    d.pieslice(B([330, 40, 470, 180]), 180, 360, fill=(230, 60, 70), outline=OUT, width=W * S)
+    poly(d, [(330, 110), (470, 110), (400, 250)], (230, 60, 70))
+    ell(d, [378, 78, 422, 122], (255, 255, 255), w=8)
+    return _fin(im, size)
+
+
+def drumstick(size):
+    im, d = _canvas()
+    # cartoon roast drumstick (Thanksgiving)
+    ell(d, [90, 80, 360, 330], (200, 120, 60))
+    d.arc(B([130, 120, 300, 290]), start=200, end=260, fill=(240, 170, 100), width=16 * S)
+    poly(d, [(290, 270), (330, 240), (420, 340), (380, 380)], (245, 240, 230))
+    ell(d, [380, 320, 450, 390], (245, 240, 230))
+    ell(d, [350, 360, 420, 430], (245, 240, 230))
+    return _fin(im, size)
+
+
+ICONS.update(flask=flask, globe=globe, drumstick=drumstick)
+
 if __name__ == '__main__':
     rows = (len(ICONS) + 6) // 7
     sheet = Image.new('RGBA', (300 * 7, 300 * rows), (60, 40, 90, 255))

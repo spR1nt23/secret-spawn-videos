@@ -197,3 +197,19 @@ Tarih, o setin 19:00 Short'unun günüdür (D). Aynı setin 01:00 ve 03:00 Short
 - Liste: Turkey Takeover 21 Kas, Takeback bitişi 23 Kas, TextChatService zorunluluğu 3 Ara, Game Awards 10 Ara
 - Takip adayları: 99 Nights sonraki güncelleme (~21 Kas, Pocket Tactics tahmini), Grow a Garden Trader etkinliği (tarihler eski olabilir), Roblox "The Festive" kış etkinliği (17 Ara söylentisi, doğrulanmadı), Delve `TYROBLOX`, Cultivation Unbound `PAGODA`, Power Lifters `RESTART`, Universe Trigger / Uproot kodları (çelişkili, verilmedi), Senato'da Roblox tahkim tasarısı (siyasi, verilmedi)
 - Not: devforum, create.roblox.com, about.roblox.com, bloxy.news, allthings.how bu oturumda doğrudan açılamadı; arama alıntıları kullanıldı
+
+## 2026-11-22
+- Dandy's World 1.0 (BlushCrunch; Alpha'dan çıkış 20 Kas Cuma 20:00 UTC = 15:00 ET; release etkinliği 30 Kas'a kadar): The Labs modu (11 yeni kat, Labs Break Room, sadece Labs'ta 2 yeni Lethal), yeni para birimi Ambrosia, Alpha Player rozeti artık alınamıyor (sahiplerine unvan + 500 Ambrosia + 2 Ambrosia Vial)
+- Toilet Tower Defense Thanksgiving Event 2026 (14 Kas'tan beri): Turkey Cameraman'dan 7 görev → Camera Turkey ünitesi, Thanksgiving Table modu (Easy→Nightmare), 11 gizli hindi (5 lobi + 6 maç içi)
+- Studio/creator: game.ServerRegion (DevForum 19 Kas; canlı sunucunun bölgesi, "LAX"/"LHR" gibi IATA kodu; Studio/play solo/istemcide boş)
+- Kodlar:
+  - Net a Fish `10Mvisits` (1 Trait Roll + 15 dk 2x Luck/Money/Fish Caught)
+  - Branded `600MEMBERS` (15 Race + 5 Gift + 2 Brand Reroll)
+  - Dandy's World `ICHOR` (50 Ichor), `AD2026` (Profile Print; sadece uzun)
+  - RIVALS `COMMUNITY28` (1 Community Wrap; geliştirici takibi şart; sadece short2)
+  - Ishin `fixedlol` (reroll; bir kaynak Yen diyor; sadece short2)
+  - Grab and Decorate `BEGINNER` (3 Shelf Table + 4 Coffee Table; sadece short3)
+- Liste: Takeback bitişi 23 Kas, Dandy's World 1.0 etkinliği 30 Kas, TextChatService zorunluluğu 3 Ara, Game Awards 10 Ara
+- Takip adayları: Net a Fish Thanksgiving güncellemesi (21 Kas 12:00 ET, Sportskeeda/bloxnew; içerik tahmin), Sniper Arena Thanksgiving (20 Kas–4 Ara, takvim kaynağı), +1 Loot To Forge Thanksgiving, Dandy's World Labs Lethal adları (Desa/Dessa çelişkili), Grab and Decorate `FIVEMILLIONGIFT`/`BLURPLE` (ödül çelişkili), Branded `OPENBETA` (durum çelişkili), Dandy's World `QoM` (çelişkili), Ant Evolution / Vox Seas / Barber Showdown kodları (tek kaynak), DevForum Weekly Recap 16–20 Kas (içeriği okunamadı)
+- Not: Grow a Garden "Trader Arrives 22 Kas Cumartesi" haberleri 2025'e ait (22 Kas 2026 Pazar) → kullanılmadı. Roblox law enforcement raporlama yazısı (12 Kas) hassas konu, verilmedi
+- Not: devforum, create.roblox.com, sportskeeda ve tüm haber/kod siteleri bu oturumda doğrudan açılamadı; arama alıntıları kullanıldı
