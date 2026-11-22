@@ -511,6 +511,33 @@ def drumstick(size):
 
 ICONS.update(flask=flask, globe=globe, drumstick=drumstick)
 
+def brush(size):
+    im, d = _canvas()
+    # paintbrush with a paint splat (pet paints)
+    ell(d, [250, 300, 460, 470], (255, 90, 160))
+    ell(d, [400, 250, 450, 300], (255, 90, 160), w=10)
+    poly(d, [(70, 110), (120, 60), (300, 240), (250, 290)], (200, 140, 80))
+    poly(d, [(250, 290), (300, 240), (340, 280), (290, 330)], (200, 205, 220))
+    poly(d, [(290, 330), (340, 280), (400, 330), (390, 400), (340, 390)], (255, 196, 46))
+    return _fin(im, size)
+
+
+def sparkles(size):
+    im, d = _canvas()
+    # three 4-point sparkles (UI particles)
+    def star(cx, cy, r, col):
+        k = r * 0.28
+        poly(d, [(cx, cy - r), (cx + k, cy - k), (cx + r, cy), (cx + k, cy + k),
+                 (cx, cy + r), (cx - k, cy + k), (cx - r, cy), (cx - k, cy - k)], col)
+    star(220, 280, 170, (255, 214, 64))
+    star(400, 130, 80, (120, 220, 255))
+    star(400, 400, 60, (255, 120, 200))
+    return _fin(im, size)
+
+
+ICONS.update(brush=brush, sparkles=sparkles)
+
+
 if __name__ == '__main__':
     rows = (len(ICONS) + 6) // 7
     sheet = Image.new('RGBA', (300 * 7, 300 * rows), (60, 40, 90, 255))

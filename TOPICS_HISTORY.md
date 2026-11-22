@@ -213,3 +213,16 @@ Tarih, o setin 19:00 Short'unun günüdür (D). Aynı setin 01:00 ve 03:00 Short
 - Takip adayları: Net a Fish Thanksgiving güncellemesi (21 Kas 12:00 ET, Sportskeeda/bloxnew; içerik tahmin), Sniper Arena Thanksgiving (20 Kas–4 Ara, takvim kaynağı), +1 Loot To Forge Thanksgiving, Dandy's World Labs Lethal adları (Desa/Dessa çelişkili), Grab and Decorate `FIVEMILLIONGIFT`/`BLURPLE` (ödül çelişkili), Branded `OPENBETA` (durum çelişkili), Dandy's World `QoM` (çelişkili), Ant Evolution / Vox Seas / Barber Showdown kodları (tek kaynak), DevForum Weekly Recap 16–20 Kas (içeriği okunamadı)
 - Not: Grow a Garden "Trader Arrives 22 Kas Cumartesi" haberleri 2025'e ait (22 Kas 2026 Pazar) → kullanılmadı. Roblox law enforcement raporlama yazısı (12 Kas) hassas konu, verilmedi
 - Not: devforum, create.roblox.com, sportskeeda ve tüm haber/kod siteleri bu oturumda doğrudan açılamadı; arama alıntıları kullanıldı
+
+## 2026-11-23
+- Adopt Me Quality of Life güncellemesi (resmi duyuru 20 Kas; etkinlik 27 Kas 15:45 UTC = 10:45 ET'ye kadar): Salon'da 25 yeni Pet Paint, 7 yeni Mega Neon Paint (49 Robux; eski Mega Neon boyaları şimdilik rotasyondan çıkıyor), Natural Color sıfırlama, profilde pet'leri trick'lerle poz verdirme, neon animasyonunu atlama
+- Fisch Miscellaneous Update (v2.11.0, 21 Kas): yeni nadir Alpha balık özelliği (Shiny/Sparkling gibi), Journal'da Achievements, yeni görev NPC'si, Venue Encore bitişi, Thanksgiving güncellemesinin öncüsü
+- Studio Beta: UI Particles / ParticleEmitter2D (DevForum 19 Kas; beta süresince bu nesneyi kullanan yerler yayınlanamıyor)
+- Kodlar:
+  - Fisch `TurkeySoon` (coin + eşyalar; Beebom: 1000 Coins, 50 Instant Catcher, 50 Luminous Larva, Alpha unvanı)
+  - TRENCH DECAY `THANKSGIVINGFEAST`, `THANKSGIVINGMANIFEST` (her biri 50 Turkey Leg; 2 etkinliğe kayıt şart)
+  - Ishin `THANKSGIVING`, `FOX` (reroll + yen; grup şartı)
+  - Bigfoot `BIGFOOTUPDATE1` (800 Bigfoot Coins; sadece short3)
+- Liste: Şükran Günü 26 Kas, Adopt Me QoL etkinliği bitişi 27 Kas, Dandy's World 1.0 etkinliği 30 Kas, TextChatService zorunluluğu 3 Ara
+- Takip adayları: Fisch Thanksgiving güncellemesi (tarih yok), Net a Fish Thanksgiving güncellemesi (21 Kas planlı; içerik doğrulanmadı), Kick a Lucky Block Thanksgiving etkinliği (tek kaynak), Throw a Seed `allages`/`ALLAGES` (büyük/küçük harf çelişkili, verilmedi), Bigfoot `SORRYBUG10`, Vox Seas `175KLIKES`, Animon Odyssey `GRANDTIDE` (tek kaynak), Roblox Kids & Select (eski haber, Nisan/Haziran 2026), Senato güvenlik oturumu ve eyalet davaları (hassas/siyasi, verilmedi), DevForum Weekly Recap 16–20 Kas (içeriği okunamadı)
+- Not: devforum, create.roblox.com, playadopt.me, fischipedia, fandom ve techwiser bu oturumda doğrudan açılamadı; arama alıntıları kullanıldı. Sistem Pillow'u başka bir ajan tarafından bozulduğu için render ayrı bir PYTHONPATH (pip --target) ile yapıldı
