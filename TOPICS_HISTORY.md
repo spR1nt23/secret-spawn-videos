@@ -226,3 +226,15 @@ Tarih, o setin 19:00 Short'unun günüdür (D). Aynı setin 01:00 ve 03:00 Short
 - Liste: Şükran Günü 26 Kas, Adopt Me QoL etkinliği bitişi 27 Kas, Dandy's World 1.0 etkinliği 30 Kas, TextChatService zorunluluğu 3 Ara
 - Takip adayları: Fisch Thanksgiving güncellemesi (tarih yok), Net a Fish Thanksgiving güncellemesi (21 Kas planlı; içerik doğrulanmadı), Kick a Lucky Block Thanksgiving etkinliği (tek kaynak), Throw a Seed `allages`/`ALLAGES` (büyük/küçük harf çelişkili, verilmedi), Bigfoot `SORRYBUG10`, Vox Seas `175KLIKES`, Animon Odyssey `GRANDTIDE` (tek kaynak), Roblox Kids & Select (eski haber, Nisan/Haziran 2026), Senato güvenlik oturumu ve eyalet davaları (hassas/siyasi, verilmedi), DevForum Weekly Recap 16–20 Kas (içeriği okunamadı)
 - Not: devforum, create.roblox.com, playadopt.me, fischipedia, fandom ve techwiser bu oturumda doğrudan açılamadı; arama alıntıları kullanıldı. Sistem Pillow'u başka bir ajan tarafından bozulduğu için render ayrı bir PYTHONPATH (pip --target) ile yapıldı
+
+## 2026-11-24
+- Pass Free Trials (DevForum "Introducing Pass Free Trials", Weekly Recap 16–20 Kas): oyunculara 2 Aralık'ta açılıyor; tek oyun oturumu, pass başına oyuncu başına 1 deneme, pass sahipleri göremez; yaratıcılar şimdiden Creator Hub > Monetization > Shop > Free Trials'tan katılabilir (yeni pass'lerde kapalı)
+- Avatar Moments (DevForum 20 Kas): uygun oyunculara açılıyor; avatar + sahip olunan emote + arka plan + müzik → profilde paylaşım, görünümdeki eşyalar satın alınabilir; Moments sekmesine kademeli; ses kaydı yok (yaş şartı resmi değil, verilmedi)
+- Steal An Egg Turkey Takeover (takip; Update 14 canlı 21 Kas 15:00 UTC → 27 Kas 18:00 UTC = 13:00 ET): King Gobble her 30 dk (:15 ve :45) saldırıyor, vurarak tüy (feather) → Turkey Shop yumurtaları (Cornuclaw 7.500 / Mapleleaf Moose 22.500 tüy), Robux'lu Royal Egg
+- Kodlar:
+  - TRENCH DECAY `THANKSGIVINGDANCE` (2 Emote Crate), `THANKSGIVINGRAFFLE` (20 Voucher; 2 etkinliğe kayıt şart)
+  - Pixel Z `25KLETSGO` (1 Pack + 400 Coins)
+  - Stand Out `CRAZYDIAMOND` (ücretsiz Opal), `200KLIKESMASSIVE` (ok + diğer; ödül kaynağa göre değişiyor; Studio Umbra: Europa grubu şart)
+- Liste: Şükran Günü 26 Kas, Turkey Takeover bitişi 27 Kas, Pass Free Trials 2 Ara, TextChatService zorunluluğu 3 Ara
+- Takip adayları: Studio MCP Server güncellemesi (save_place, submit_feedback; video capture resmi değil), Ant Evolution `RELEASE`/`ANTS`/`QUEEN`/`EVOLVE` (17–19 Kas listeleri, 48 saat dışı), TRENCH DECAY `THANKSGIVINGBOUNTY` (tek kaynak), A Bizarre Run `10MINDELAY`/`350KLIKES`, Power Lifters `CLUBS!`/`YAYUPDATE!`, Shibuya `7MVISITS` (doğrulanamadı, verilmedi), Net a Fish Thanksgiving güncellemesi (içerik doğrulanmadı), Steal a Brainrot Rebirth 17 (kaynaklar çelişkili)
+- Not: devforum, create.roblox.com, sportskeeda ve tüm haber/kod siteleri bu oturumda doğrudan açılamadı; arama alıntıları kullanıldı. Render ayrı PYTHONPATH (pip --target) ile yapıldı
