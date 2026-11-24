@@ -238,3 +238,17 @@ Tarih, o setin 19:00 Short'unun günüdür (D). Aynı setin 01:00 ve 03:00 Short
 - Liste: Şükran Günü 26 Kas, Turkey Takeover bitişi 27 Kas, Pass Free Trials 2 Ara, TextChatService zorunluluğu 3 Ara
 - Takip adayları: Studio MCP Server güncellemesi (save_place, submit_feedback; video capture resmi değil), Ant Evolution `RELEASE`/`ANTS`/`QUEEN`/`EVOLVE` (17–19 Kas listeleri, 48 saat dışı), TRENCH DECAY `THANKSGIVINGBOUNTY` (tek kaynak), A Bizarre Run `10MINDELAY`/`350KLIKES`, Power Lifters `CLUBS!`/`YAYUPDATE!`, Shibuya `7MVISITS` (doğrulanamadı, verilmedi), Net a Fish Thanksgiving güncellemesi (içerik doğrulanmadı), Steal a Brainrot Rebirth 17 (kaynaklar çelişkili)
 - Not: devforum, create.roblox.com, sportskeeda ve tüm haber/kod siteleri bu oturumda doğrudan açılamadı; arama alıntıları kullanıldı. Render ayrı PYTHONPATH (pip --target) ile yapıldı
+
+## 2026-11-25
+- Net a Fish Thanksgiving güncellemesi (takip; 21 Kas 17:00 UTC; etkinlik trackerlara göre 5 Ara 17:00 UTC'ye kadar): Great Gobbler hindi boss'u (~45 dk'da bir, ağ atarak; ilk zafer Gobbler Tamer unvanı + Harvest Hearth base skin), Bloodmaw ilk World Boss, Corn etkinlik parası (kontratlar + 75 kademeli Thanksgiving Pass) → Thanksgiving Market
+- Throw Food For Animals Thanksgiving etkinliği (Dreamland'in yerine; 28 Kas'a kadar): malzeme topla, sandviç yap, at → 21 sınırlı hayvan (hepsi → Feast Trail); etkinlik :00/:30'da ~5 dk
+- Scare Your Favorite Streamer Thanksgiving etkinliği (29 Kas'a kadar): drumstick → ödül yolu, Robux mağazasında 6 pet'li Thanksgiving Egg (sadece short1)
+- Kids & Select Highly Engaged Player eşiği 250 → 100 (DevForum [Update] 19 Kas); HEP sayıları Creator Hub'da saatlik güncelleniyor (Publish Settings > Manage Audience)
+- Kodlar:
+  - Net a Fish `20MVISITS` (2 Trait Roll + 15 dk x2 Luck/Money/Pearls/Fish Caught), `THANKSGIVING` (15 dk x2 boost; sadece uzun)
+  - Practical Basketball `THANKSGIVING2026` (15.000 Coins + 3 maç 2x Badge XP; Practical's Games grubu şart)
+  - The Ditch Hotel `THANKSGIVING` (10k Cash + 1 Revive)
+- Liste: Şükran Günü 26 Kas, Throw Food etkinliği bitişi 28 Kas, Scare Streamer etkinliği bitişi 29 Kas, Pass Free Trials 2 Ara
+- Yeni ikonlar: `basketball`, `sandwich`
+- Takip adayları: Kick a Lucky Block Thanksgiving / Great Feast (sadece TechWiser), Revolver Arena Thanksgiving (22–29 Kas, tek kaynak), The Ditch Hotel `GOBBLE`/`TURKEYLEG`/`STAMPEDE` (tek kaynak), Practical Basketball `NEWPARK`, Overflow `1KMEMBERS`/`WELCOME!`, Deep Fishing `thanksgiving`/`update16` (doğrulanamadı), Kids & Select hızlı inceleme ücreti 50.000 Robux (yol haritası, canlı mı belirsiz), Roblox Black Friday 2026 (duyurulmadı), Grow a Garden Trader (kaynaklar çelişkili)
+- Not: devforum, create.roblox.com, progameguides, destructoid, ffbooyah bu oturumda doğrudan açılamadı; arama alıntıları kullanıldı. Render ayrı PYTHONPATH (pip --target) ile yapıldı

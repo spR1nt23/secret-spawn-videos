@@ -538,6 +538,35 @@ def sparkles(size):
 ICONS.update(brush=brush, sparkles=sparkles)
 
 
+def basketball(size):
+    im, d = _canvas()
+    # orange basketball with seams
+    ell(d, [70, 70, 442, 442], (245, 130, 40))
+    d.line(P([(256, 76), (256, 436)]), fill=OUT, width=10 * S)
+    d.line(P([(76, 256), (436, 256)]), fill=OUT, width=10 * S)
+    d.arc(B([-60, 110, 190, 402]), start=-60, end=60, fill=OUT, width=10 * S)
+    d.arc(B([322, 110, 572, 402]), start=120, end=240, fill=OUT, width=10 * S)
+    return _fin(im, size)
+
+
+def sandwich(size):
+    im, d = _canvas()
+    # stacked sandwich: bread, lettuce, tomato, turkey, bread
+    rrect(d, [80, 330, 432, 400], 30, (235, 180, 95))
+    rrect(d, [90, 290, 422, 340], 20, (230, 205, 170), w=10)
+    rrect(d, [100, 255, 412, 300], 20, (230, 60, 60), w=10)
+    poly(d, [(80, 240), (130, 215), (180, 245), (230, 215), (280, 245), (330, 215), (380, 245), (432, 220),
+             (432, 270), (80, 270)], (91, 200, 90), w=10)
+    d.pieslice(B([80, 90, 432, 330]), start=180, end=360, fill=(245, 196, 110), outline=OUT, width=W * S)
+    d.line(P([(80, 210), (432, 210)]), fill=OUT, width=W * S)
+    for x, y in [(190, 150), (256, 130), (320, 155)]:
+        d.ellipse(B([x - 9, y - 6, x + 9, y + 6]), fill=(255, 240, 200))
+    return _fin(im, size)
+
+
+ICONS.update(basketball=basketball, sandwich=sandwich)
+
+
 if __name__ == '__main__':
     rows = (len(ICONS) + 6) // 7
     sheet = Image.new('RGBA', (300 * 7, 300 * rows), (60, 40, 90, 255))
