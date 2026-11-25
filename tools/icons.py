@@ -567,6 +567,32 @@ def sandwich(size):
 ICONS.update(basketball=basketball, sandwich=sandwich)
 
 
+def paw(size):
+    im, d = _canvas()
+    # paw print (cat cards)
+    ell(d, [140, 250, 372, 450], (255, 170, 190))
+    ell(d, [70, 160, 160, 270], (255, 170, 190))
+    ell(d, [165, 70, 255, 190], (255, 170, 190))
+    ell(d, [257, 70, 347, 190], (255, 170, 190))
+    ell(d, [352, 160, 442, 270], (255, 170, 190))
+    return _fin(im, size)
+
+
+def chart(size):
+    im, d = _canvas()
+    # rising bar chart with an arrow (trending games)
+    rrect(d, [70, 330, 160, 450], 12, (120, 200, 255))
+    rrect(d, [200, 250, 290, 450], 12, (91, 200, 90))
+    rrect(d, [330, 160, 420, 450], 12, (255, 196, 46))
+    d.line(P([(70, 250), (200, 170), (290, 190), (400, 70)]), fill=OUT, width=34 * S, joint='curve')
+    d.line(P([(70, 250), (200, 170), (290, 190), (400, 70)]), fill=(240, 70, 80), width=16 * S, joint='curve')
+    poly(d, [(340, 60), (440, 40), (420, 140)], (240, 70, 80), w=10)
+    return _fin(im, size)
+
+
+ICONS.update(paw=paw, chart=chart)
+
+
 if __name__ == '__main__':
     rows = (len(ICONS) + 6) // 7
     sheet = Image.new('RGBA', (300 * 7, 300 * rows), (60, 40, 90, 255))

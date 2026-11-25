@@ -252,3 +252,16 @@ Tarih, o setin 19:00 Short'unun günüdür (D). Aynı setin 01:00 ve 03:00 Short
 - Yeni ikonlar: `basketball`, `sandwich`
 - Takip adayları: Kick a Lucky Block Thanksgiving / Great Feast (sadece TechWiser), Revolver Arena Thanksgiving (22–29 Kas, tek kaynak), The Ditch Hotel `GOBBLE`/`TURKEYLEG`/`STAMPEDE` (tek kaynak), Practical Basketball `NEWPARK`, Overflow `1KMEMBERS`/`WELCOME!`, Deep Fishing `thanksgiving`/`update16` (doğrulanamadı), Kids & Select hızlı inceleme ücreti 50.000 Robux (yol haritası, canlı mı belirsiz), Roblox Black Friday 2026 (duyurulmadı), Grow a Garden Trader (kaynaklar çelişkili)
 - Not: devforum, create.roblox.com, progameguides, destructoid, ffbooyah bu oturumda doğrudan açılamadı; arama alıntıları kullanıldı. Render ayrı PYTHONPATH (pip --target) ile yapıldı
+
+## 2026-11-26
+- Fisch Fischgiving 3 (takip; canlı 24 Kas 17:00 UTC = 12:00 ET → 1 Ara 17:00 UTC = 12:00 ET): 14 Turkey, Great Turkey her oyun saatinde Ocean ortasında, Turkey Tim'e/Gravy Boat'ta 5 Turkey takası → global ödüller (Gobbler unvanı, Soaring Turkey Glider, Turkey Halo), Moosewood Cozy Lodge'da Pilgrim görevi
+- Anime Adventures Update 21.5 "Misty Village" (23 Kas): Secret ünite Misty (event banner, Dawn Coins), Haze evrimi için Mist Blade, Misty/Lovey görevleri
+- GGRecon (19 Kas): Top Playing Now listesindeki 99 oyunun 30'u Ekim/Kasım'da yapılmış; Hyper Realistic Ragdoll (29 Eki) #10, Ragdoll Soccer #17; 2020 öncesi 11 oyun oyuncuların %19'u (Adopt Me önde) (sadece short3 + uzun)
+- Kodlar:
+  - Fisch `TurkeyTime` (level 25+; 50 Mini Pinecones + 50 Pumpkin Pie Bits + 50 Stuffing Pieces, "gobble gobble yo" unvanı, 30 dk Lucky boost; wiki'ye göre 1 Ara'da bitiyor)
+  - Collect Cat Cards `THANKSGIVING` (100 Acorns), `TURKEY` (30 Acorns; sadece uzun)
+  - Hunty Zombie `GRANDMASTER` (Lucky Spins + Traits; sadece uzun), `NOGUILDNEEDED` (Lucky Spins; ödül kaynağa göre değişiyor)
+- Liste: Fischgiving bitişi 1 Ara, Pass Free Trials 2 Ara, TextChatService zorunluluğu 3 Ara, Incubator 7 Ara
+- Yeni ikonlar: `paw`, `chart`
+- Takip adayları: Adopt Me Şükran Günü güncellemesi (27 Kas tahmini, duyurulmadı), 99 Nights Thanksgiving Challenge (kaynaklar 2025'e ait), Steal a Brainrot Turkey etkinliği (2025), Grow a Garden Trader (çelişkili), Stand Out `HUGE100K` (tek kaynak), SHUFFLED `15k` (tek kaynak), The Forge `90KCCU`/`FIRSTADMINEVENT`/`PRISMATICSHARDS`/`FORGG` (doğrulanmadı), Hunty Zombie GRANDMASTER bitişi 28 Kas (tek kaynak), Fisch Great Turkey ödülleri (belirsiz)
+- Not: devforum, sportskeeda ve tüm haber/kod siteleri bu oturumda doğrudan açılamadı; arama alıntıları kullanıldı. Render ayrı PYTHONPATH (pip --target) ile yapıldı
