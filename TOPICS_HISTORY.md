@@ -265,3 +265,15 @@ Tarih, o setin 19:00 Short'unun günüdür (D). Aynı setin 01:00 ve 03:00 Short
 - Yeni ikonlar: `paw`, `chart`
 - Takip adayları: Adopt Me Şükran Günü güncellemesi (27 Kas tahmini, duyurulmadı), 99 Nights Thanksgiving Challenge (kaynaklar 2025'e ait), Steal a Brainrot Turkey etkinliği (2025), Grow a Garden Trader (çelişkili), Stand Out `HUGE100K` (tek kaynak), SHUFFLED `15k` (tek kaynak), The Forge `90KCCU`/`FIRSTADMINEVENT`/`PRISMATICSHARDS`/`FORGG` (doğrulanmadı), Hunty Zombie GRANDMASTER bitişi 28 Kas (tek kaynak), Fisch Great Turkey ödülleri (belirsiz)
 - Not: devforum, sportskeeda ve tüm haber/kod siteleri bu oturumda doğrudan açılamadı; arama alıntıları kullanıldı. Render ayrı PYTHONPATH (pip --target) ile yapıldı
+
+## 2026-11-28
+- RIVALS ilk Black Friday indirimi (oyun sayfası: seçili paketlerde %40'a kadar; 7 paket — Balloon/Prop %40, Medkit/Exogun/Nostalgia %30, Pirate %20, Standard Weapons; Skin Case ve Key paketleri hariç; bitiş 1 Ara 05:00 UTC = 1 Ara 00:00 ET; başlangıç 24/25 Kas kaynağa göre değişiyor) + Season 4 Part 2 (21 Kas 02:00 UTC): Holodome (içinden/dışından ateş geçmeyen kubbe kalkan, 40 Key), Shield Surge modu (1v1/2v2/3v3, 50 HP kalkan)
+- Overflow (kyo squad) 26 Kas güncelleme günlüğü (DevForum Bulletin Board): Scythe yeniden yapıldı (42 kart + 5 Eclipse, 19 yeni animasyon, Final Harvest ultisi), ücretsiz Tidecaller Rod (10 farklı balık türü yakalayınca açılıyor; rare+ ağırlık x1.5, %15 geniş makara bölgesi)
+- Web Play WebGPU'ya geçti (DevForum 19 Kas): bozuk avatar, eksik çimen, ışık ve bulanık ikon düzeltmeleri; WebGPU'suz bazı test cihazları düştü; hâlâ sadece Creator Beta, oyuncular için tarih yok
+- Kodlar:
+  - Overflow `FORGOTSCYTHESORRY` (30 Style + 25 Passive Roll), `UPDATEYAY` (25 + 25), `ILOVEFISHINGLOL` (15 + 15 + 30 dk 2x Mastery EXP)
+  - Beyond Nen `DECAYSICK` (35 Spin), `DECAYGIFT` (Clear Negative Nen Orb + Reset Orb + 10 Spin; GamesRadar farklı)
+  - Stand Out `THANKFULFORSTANDOUT` (short2 + uzun), `REAL200KLIKES` (sadece uzun) (ok + Dalas; miktarlar kaynağa göre değişiyor)
+- Liste: RIVALS indirimi + Fischgiving bitişi 1 Ara, Pass Free Trials 2 Ara, Incubator 7 Ara
+- Takip adayları: Scoped User IDs (Ekim 2026 geniş yayılım planlıydı; gerçekleşti mi doğrulanmadı), Roblox platform Black Friday indirimi (duyurulmadı), "The Festive" kış etkinliği (17 Ara, sadece X söylentisi), RIVALS `FREE206` (tek kaynak), Dummy Lab `10K`, Overflow 28 Kas etkinlik bitişi (tek tracker), DTI Wicked etkinliği (tarih 2025'e ait olabilir), Grow a Garden Trader (çelişkili)
+- Not: devforum, create.roblox.com, roblox.com, timesaver.gg, ggrecon bu oturumda doğrudan açılamadı; arama alıntıları kullanıldı. Render ayrı PYTHONPATH (pip --target) ile yapıldı
