@@ -277,3 +277,16 @@ Tarih, o setin 19:00 Short'unun günüdür (D). Aynı setin 01:00 ve 03:00 Short
 - Liste: RIVALS indirimi + Fischgiving bitişi 1 Ara, Pass Free Trials 2 Ara, Incubator 7 Ara
 - Takip adayları: Scoped User IDs (Ekim 2026 geniş yayılım planlıydı; gerçekleşti mi doğrulanmadı), Roblox platform Black Friday indirimi (duyurulmadı), "The Festive" kış etkinliği (17 Ara, sadece X söylentisi), RIVALS `FREE206` (tek kaynak), Dummy Lab `10K`, Overflow 28 Kas etkinlik bitişi (tek tracker), DTI Wicked etkinliği (tarih 2025'e ait olabilir), Grow a Garden Trader (çelişkili)
 - Not: devforum, create.roblox.com, roblox.com, timesaver.gg, ggrecon bu oturumda doğrudan açılamadı; arama alıntıları kullanıldı. Render ayrı PYTHONPATH (pip --target) ile yapıldı
+
+## 2026-11-29
+- The Great Build (Roblox'un kendi Şükran Günü etkinliği, Roblox Presents; 25–30 Kas, kapanış saati belirtilmemiş): ortak kuleye saatte 1 ücretsiz "gratitude" blok + teşekkür mesajı; topluluk hedefleri (1M Patchbrick Cap, 5M Snowcapped Brick Tails, 10M Terracotta Skyserpent, 20M The Ascendant Bloom) için 5 blok yerleştirmiş olmak şart; obby'den Skybound Monarch (scavenger hunt / time trial detayları belirsiz, verilmedi)
+- Adopt Me Gingerbread Mansion güncellemesi (27 Kas): yeni Gingerbread Mansion ev, Adoption Island'da kar, Hooray (Ultra Rare; Crystal + Basic Egg), Tilcayo (Legendary; Gemstone Egg); mansion fiyatı resmi notlarda yok (verilmedi)
+- Studio: Pixelated ResampleMode (DevForum "Keep Pixel Art Sharp on Meshes, Decals, and Textures", Creator Updates 24 Kas): SurfaceAppearance/Decal/Texture; sıkıştırmasız, streaming yok; bazı düşük donanımlarda hâlâ bulanık (sadece uzun)
+- Kodlar:
+  - RIVALS `FREE208` (3 Key; geliştirici takibi şart)
+  - Anime Crusaders X `HAPPYTHANKSGIVINGAC` (Gems + Trait Remnants; miktar kaynağa göre değişiyor)
+  - Overflow `3000LIKES` (20 Style + 20 Passive Roll + 5 Variant + 10 Race Reroll), `2500LIKES` (15 + 15 + 5 Race Reroll; sadece uzun)
+- Liste: Great Build bitişi 30 Kas, RIVALS indirimi bitişi 1 Ara, Pass Free Trials 2 Ara, Incubator 7 Ara
+- Yeni ikonlar: `blocks`, `house`
+- Takip adayları: Grow a Garden haftalık güncelleme (28 Kas 21:30 UTC; içerik bilinmiyor), Creator Updates 23 Kas oyun içi/sunucu içi arkadaş listesi API'leri, Uproot `FROZENTUNDRA` (oyun sayfasında yok, çelişkili), Overflow `BUGFIXES67` (ödül çelişkili), TRENCH DECAY `THANKFULRUSSIANTURKEY` (tek kaynak), AIMBLOX `THANKSGIVING2026` (tek tracker), Tavern Town / Aero kodları (tek kaynak), Kick a Lucky Block Great Feast (21 Kas)
+- Not: devforum, create.roblox.com, playadopt.me, progameguides, fandom, tubefilter, gamezebo bu oturumda doğrudan açılamadı; arama alıntıları kullanıldı. Render ayrı PYTHONPATH (pip --target, python3.13) ile yapıldı

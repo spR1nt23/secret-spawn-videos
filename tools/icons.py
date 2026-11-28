@@ -593,6 +593,39 @@ def chart(size):
 ICONS.update(paw=paw, chart=chart)
 
 
+def blocks(size):
+    im, d = _canvas()
+    # stacked toy bricks forming a tower (community build event)
+    cols = [(240, 70, 80), (255, 196, 46), (91, 200, 90), (120, 200, 255), (190, 120, 255)]
+    rows = [(70, 360, 442, 450), (110, 270, 402, 360), (150, 180, 362, 270), (190, 90, 322, 180)]
+    for i, (x0, y0, x1, y1) in enumerate(rows):
+        rrect(d, [x0, y0, x1, y1], 12, cols[i % len(cols)])
+        n = max(1, int((x1 - x0) // 90))
+        step = (x1 - x0) / n
+        for k in range(n):
+            cx = x0 + step * (k + 0.5)
+            rrect(d, [cx - 22, y0 - 26, cx + 22, y0 + 4], 6, cols[(i + 1) % len(cols)], w=10)
+    rrect(d, [226, 40, 286, 92], 10, cols[4], w=10)
+    return _fin(im, size)
+
+
+def house(size):
+    im, d = _canvas()
+    # gingerbread house with icing roof
+    rrect(d, [100, 230, 412, 450], 14, (190, 120, 60))
+    poly(d, [(256, 60), (450, 250), (62, 250)], (245, 245, 250))
+    poly(d, [(256, 100), (400, 240), (112, 240)], (170, 100, 50), w=10)
+    rrect(d, [216, 330, 296, 450], 30, (240, 70, 80), w=10)
+    rrect(d, [130, 280, 200, 340], 8, (255, 220, 120), w=10)
+    rrect(d, [312, 280, 382, 340], 8, (255, 220, 120), w=10)
+    for x, c in [(150, (91, 200, 90)), (256, (240, 70, 80)), (362, (120, 200, 255))]:
+        ell(d, [x - 18, 380 if x != 256 else 160, x + 18, (416 if x != 256 else 196)], c, w=8)
+    return _fin(im, size)
+
+
+ICONS.update(blocks=blocks, house=house)
+
+
 if __name__ == '__main__':
     rows = (len(ICONS) + 6) // 7
     sheet = Image.new('RGBA', (300 * 7, 300 * rows), (60, 40, 90, 255))
